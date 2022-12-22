@@ -1,0 +1,8 @@
+1 - Acordo, abro os olhos e levanto da cama;
+2 - Vou ao banheiro, lavo o rosto e escovo os dentes;
+3 - Tomo um banho e me visto;
+4 - Vou até o quintal pendurar a toalha;
+5 - Vou até a cozinha;
+6 - Preparo meu café da manhã e como;
+7 - Escovo os dentes novamente;
+8 - Volto ao quarto para trabalhar.
